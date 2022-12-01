@@ -10,7 +10,7 @@ const cardList = [
       image: "images/Gwen.jpg",
       link: "Photo of Gwen",
       desciption: "But is Gwen cuter"
-  }
+  },  
 ]
 const clickMe = () => {
   alert("Thanks for clicking me. Hope you have a nice day!")
@@ -56,5 +56,3 @@ $(document).ready(function(){
     addCards(cardList);
     $('.modal').modal();
   });
-
-document.querySelector('.myclass')

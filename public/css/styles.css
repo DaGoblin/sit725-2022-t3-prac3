@@ -2,12 +2,17 @@
     width: 95%;
     margin: 0 auto;
 }
+
+nav {
+    background-color: #289eb3f6;
+}
+
 .user-image-size {
     height: 56px;
     margin: 4px 0;
 }
 .main-body {
-    background-color: #F28487;
+    background-color: #289eb3d8;
     color: white;
     height: calc(100vh - 64px);
 }
